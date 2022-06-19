@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="org.codehaus.jackson:jackson-mapper-asl:1.9.9" level="project" />
+    <orderEntry type="library" name="com.squareup.okhttp3:okhttp:3.3.0" level="project" />
+    <orderEntry type="library" name="com.fasterxml.storemate:storemate-shared:1.1.2" level="project" />
+    <orderEntry type="library" name="com.github.lbovolini:ObjectMapper:0.2.3" level="project" />
+    <orderEntry type="library" name="org.codehaus.jackson:jackson-mapper-asl:1.9.91" level="project" />
+    <orderEntry type="library" name="org.codehaus.jackson:jackson-mapper-lgpl:1.9.13" level="project" />
+    <orderEntry type="library" name="com.fasterxml.storemate:storemate-store:1.1.2" level="project" />
+    <orderEntry type="library" name="com.fasterxml.transistore:transistore-client-ahc:0.9.9" level="project" />
+    <orderEntry type="library" name="com.almworks.sqlite4java:sqlite4java:1.0.392" level="project" />
+    <orderEntry type="library" name="com.github.jdbc-json:jdbc-cb:0.4.0" level="project" />
+    <orderEntry type="library" name="sqlite-jdbc-3.8.10.1" level="project" />
+  </component>
+</module>
